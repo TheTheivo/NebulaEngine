@@ -1,6 +1,6 @@
 #pragma once
-#ifndef _GRAPHICSCORE_H_
-#define _GRAPHICSCORE_H_
+#ifndef _GRAPHICSCLASS_H_
+#define _GRAPHICSCLASS_H_
 
 #include "DirectX3.h"
 

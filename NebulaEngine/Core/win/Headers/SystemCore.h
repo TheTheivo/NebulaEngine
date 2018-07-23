@@ -11,7 +11,7 @@
 
 #include <windows.h>
 #include "InputClass.h"
-#include "GraphicsCore.h"
+#include "GraphicsClass.h"
 
 /**
   Core encapsulation of the whole system

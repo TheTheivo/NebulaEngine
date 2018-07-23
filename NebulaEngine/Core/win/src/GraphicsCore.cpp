@@ -1,4 +1,4 @@
-#include "GraphicsCore.h"
+#include "GraphicsClass.h"
 
 
 
